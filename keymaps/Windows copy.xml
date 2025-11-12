@@ -1,0 +1,10 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+</keymap>

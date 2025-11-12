@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="default" type="AUTO_DETECTED" />
+      <mapping pattern="error_log" type="AUTO_DETECTED" />
+      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
+      <mapping pattern="tash" type="AUTO_DETECTED" />
+      <mapping pattern="known_hosts" type="AUTO_DETECTED" />
+      <mapping ext="xcstrings" type="JSON" />
+      <mapping pattern=".netrwhist" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="reg" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="json работает мит" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".aiignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

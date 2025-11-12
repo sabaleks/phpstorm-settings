@@ -1,0 +1,6 @@
+<application>
+  <component name="MatterhornModelPersistentStateComponent">
+    <option name="autoModeEnabled" value="true" />
+    <option name="speedMode" value="Quality" />
+  </component>
+</application>

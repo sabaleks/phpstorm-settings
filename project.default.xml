@@ -1,0 +1,40 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings">
+        <execution />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="admin" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Joomla!</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "ssh.settings"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="860" y="329" key="SettingsEditor" timestamp="1754650159631">
+          <screen x="0" y="0" width="2560" height="1392" />
+        </state>
+        <state x="860" y="329" key="SettingsEditor/2560.0.2560.1392/0.0.2560.1392" timestamp="1754650159631" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

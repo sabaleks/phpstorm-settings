@@ -1,0 +1,104 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa2e9f96-4103-4a57-a241-7a9f00f5707f" name="Backend hfront1">
+        <fileTransfer accessType="SFTP" host="hfront02.dial-backend.ru" port="22" sshConfigId="8d403ce9-3b89-4168-808e-762abaeaaa7c" sshConfig="Backend hfront02" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="948dd9ed-b3ab-43eb-b8d9-c35f9f5bda85" name="Backend hfront2">
+        <fileTransfer accessType="SFTP" host="hfront02.dial-backend.ru" port="22" sshConfigId="8d403ce9-3b89-4168-808e-762abaeaaa7c" sshConfig="Backend hfront02" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="41e24dc5-6e6d-4545-81bc-a4c199d63149" name="Shark-vil-Vless-Ws">
+        <fileTransfer accessType="SFTP" host="46.62.206.34" port="22" sshConfigId="82a4bd51-30fd-4602-bf9e-9b2921542ce6" sshConfig="Shark-vil-Vless-Ws" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9f354f83-1a20-4027-9846-e410f05609a8" name="3x-ui-keen">
+        <fileTransfer accessType="SFTP" host="49.12.219.107" port="22" sshConfigId="c584cd32-d5d4-4504-b392-37308dc7ce1c" sshConfig="3x-ui-keen" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8c670f4e-dddc-4552-a7c3-18c0425e60a6" name="morda vless">
+        <fileTransfer accessType="SFTP" host="91.99.49.156" port="22" sshConfigId="67c5b5d2-1a71-4ece-a572-0a68eb26ce5e" sshConfig="morda vless" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e02a226-cf22-4f10-ba54-5d8e9ba8f016" name="stat FB">
+        <fileTransfer rootFolder="/var/www/stat_dial" accessType="SFTP" host="95.216.164.169" port="22" sshConfigId="4ad13f38-3902-4f9c-a610-0bd58d9e7ae5" sshConfig="stat FB" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a40c60a6-0f83-4379-97fa-b0ca5c2d080a" name="stat SEO">
+        <fileTransfer accessType="SFTP" host="65.21.191.23" port="22" sshConfigId="8101dc49-ff68-4b5e-a3b8-01cc9638910a" sshConfig="stat SEO" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="26461e28-bdf1-4baf-9d23-264bb61a3f47" name="keitaro main">
+        <fileTransfer accessType="SFTP" host="95.217.186.61" port="22" sshConfigId="e8aa9731-e114-4d1e-8b58-7af0767e1e7b" sshConfig="keitaro main" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="431062d2-6bf1-4206-a3aa-72a24c8a7d0d" name="stat">
+        <fileTransfer rootFolder="/var/www/stat_dial" accessType="SFTP" host="157.90.175.90" port="22" sshConfigId="c1d95650-3c7a-46c1-beb4-9d5ed304a077" sshConfig="stat" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d5e8f1eb-5191-47ac-81b5-bf53ec0dcf49" name="DialSkripts">
+        <fileTransfer accessType="SFTP" host="37.27.5.250" port="22" sshConfigId="a6d421c2-75e3-4fcb-be67-56a9692b6109" sshConfig="DialSkripts" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d31a9f3c-9eba-4f00-8066-075ef2ade2ad" name="AISongBack">
+        <fileTransfer accessType="SFTP" host="dial-api.com" port="22" sshConfigId="7288cb9c-8a7a-47d2-a16f-62cd14be635e" sshConfig="AISongBack" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5ead126c-6801-4f1a-b756-59c87592870c" name="stat Subscriptions">
+        <fileTransfer accessType="SFTP" host="116.202.99.6" port="22" sshConfigId="6a2c5b11-1c9a-4786-b20c-2bc62480ec40" sshConfig="stat Subscriptions" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="931cba3f-0753-473c-a41c-f58cfa100a35" name="rankingStatV2">
+        <fileTransfer accessType="SFTP" host="46.62.163.37" port="22" sshConfigId="841f3d94-65e5-4b8b-8d77-c573ba3b2515" sshConfig="rankingStatV2" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="57fca580-4c4f-42ce-b7d8-4b3a8439693a" name="hypeArt hfront01">
+        <fileTransfer accessType="SFTP" host="188.245.176.196" port="22" sshConfigId="b34283b1-b89e-4824-8968-1b89edd09fbc" sshConfig="hypeArt hfront01" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

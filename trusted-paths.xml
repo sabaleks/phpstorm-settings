@@ -1,0 +1,37 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\admin\Desktop\QuantumAI" value="true" />
+        <entry key="C:\Users\admin\Desktop\react\white_gen" value="true" />
+        <entry key="C:\Users\admin\Downloads\DPPromts" value="true" />
+        <entry key="C:\Users\admin\Downloads\untitled" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\DialMarketiongLanding" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\LocalizationParser" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\adsapi" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\adwert" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\backend" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\chatbot" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\dialSkripts" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\dial_backend" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\dialskripts" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\gptAppsBackend" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\metabase" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\newBot" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\song" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\spaceshipDNSEditor" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\stat_dial" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\stat_dialSubs" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\vk" value="true" />
+        <entry key="C:\Users\admin\PhpstormProjects\w2askripts" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\admin\PhpstormProjects" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,51 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="157.90.175.90" id="c1d95650-3c7a-46c1-beb4-9d5ed304a077" port="22" customName="stat" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="stat" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="49.12.219.107" id="c584cd32-d5d4-4504-b392-37308dc7ce1c" port="22" customName="3x-ui-keen" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="3x-ui-keen" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="95.216.164.169" id="4ad13f38-3902-4f9c-a610-0bd58d9e7ae5" port="22" customName="stat FB" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="stat FB" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="65.21.191.23" id="8101dc49-ff68-4b5e-a3b8-01cc9638910a" port="22" customName="stat SEO" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="stat SEO" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="37.27.5.250" id="a6d421c2-75e3-4fcb-be67-56a9692b6109" port="22" customName="DialSkripts" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="DialSkripts" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dial-api.com" id="7288cb9c-8a7a-47d2-a16f-62cd14be635e" port="22" customName="AISongBack" nameFormat="CUSTOM" username="user" useOpenSSHConfig="true">
+        <option name="customName" value="AISongBack" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="46.62.163.37" id="841f3d94-65e5-4b8b-8d77-c573ba3b2515" port="22" customName="rankingStatV2" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="rankingStatV2" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="95.217.186.61" id="e8aa9731-e114-4d1e-8b58-7af0767e1e7b" port="22" customName="keitaro main" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="keitaro main" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="188.245.176.196" id="b34283b1-b89e-4824-8968-1b89edd09fbc" port="22" customName="hypeArt hfront01" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="hypeArt hfront01" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="91.99.49.156" id="67c5b5d2-1a71-4ece-a572-0a68eb26ce5e" port="22" customName="morda vless" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="morda vless" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="195.201.217.176" id="c97d6cc7-fe04-47fe-8642-bcd77f1b507f" port="22" customName="keitaro SEO" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="keitaro SEO" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="116.202.99.6" id="6a2c5b11-1c9a-4786-b20c-2bc62480ec40" port="22" customName="stat Subscriptions" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="stat Subscriptions" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="hfront01.dial-backend.ru" id="4813014f-6c93-4cb9-b954-821f1512082d" port="22" customName="Backend hfront01" nameFormat="CUSTOM" username="user" useOpenSSHConfig="true">
+        <option name="customName" value="Backend hfront01" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="hfront02.dial-backend.ru" id="8d403ce9-3b89-4168-808e-762abaeaaa7c" port="22" customName="Backend hfront02" nameFormat="CUSTOM" username="user" useOpenSSHConfig="true">
+        <option name="customName" value="Backend hfront02" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="46.62.206.34" id="82a4bd51-30fd-4602-bf9e-9b2921542ce6" port="22" customName="Shark-vil-Vless-Ws" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="Shark-vil-Vless-Ws" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
