@@ -31,9 +31,6 @@
       <sshConfig authType="OPEN_SSH" host="91.99.49.156" id="67c5b5d2-1a71-4ece-a572-0a68eb26ce5e" port="22" customName="morda vless" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="morda vless" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="195.201.217.176" id="c97d6cc7-fe04-47fe-8642-bcd77f1b507f" port="22" customName="keitaro SEO" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="keitaro SEO" />
-      </sshConfig>
       <sshConfig authType="OPEN_SSH" host="116.202.99.6" id="6a2c5b11-1c9a-4786-b20c-2bc62480ec40" port="22" customName="stat Subscriptions" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="stat Subscriptions" />
       </sshConfig>
@@ -46,8 +43,8 @@
       <sshConfig authType="OPEN_SSH" host="46.62.206.34" id="82a4bd51-30fd-4602-bf9e-9b2921542ce6" port="22" customName="Shark-vil-Vless-Ws" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="Shark-vil-Vless-Ws" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="65.109.134.202" id="0023a8f9-7973-4350-ad8e-db46cfa168a1" port="22" customName="stst seoxa" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="stst seoxa" />
+      <sshConfig authType="OPEN_SSH" host="65.109.134.202" id="38f935a9-6fb8-4e81-868f-317ad92e8070" port="22" customName="stat seoxa" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="stat seoxa" />
       </sshConfig>
     </configs>
   </component>

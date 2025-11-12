@@ -1,13 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="783c928e-86de-4595-9047-73da1c53f2df" name="stst seoxa">
-        <fileTransfer accessType="SFTP" host="65.109.134.202" port="22" sshConfigId="0023a8f9-7973-4350-ad8e-db46cfa168a1" sshConfig="stst seoxa" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="aa2e9f96-4103-4a57-a241-7a9f00f5707f" name="Backend hfront1">
         <fileTransfer accessType="SFTP" host="hfront02.dial-backend.ru" port="22" sshConfigId="8d403ce9-3b89-4168-808e-762abaeaaa7c" sshConfig="Backend hfront02" authAgent="true">
           <advancedOptions>
@@ -65,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="431062d2-6bf1-4206-a3aa-72a24c8a7d0d" name="stat">
-        <fileTransfer rootFolder="/var/www/stat_dial" accessType="SFTP" host="157.90.175.90" port="22" sshConfigId="c1d95650-3c7a-46c1-beb4-9d5ed304a077" sshConfig="stat" authAgent="true">
+        <fileTransfer rootFolder="/var/www/stat_dial" accessType="SFTP" host="91.99.49.156" port="22" sshConfigId="67c5b5d2-1a71-4ece-a572-0a68eb26ce5e" sshConfig="morda vless" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -101,6 +94,13 @@
       </webServer>
       <webServer id="57fca580-4c4f-42ce-b7d8-4b3a8439693a" name="hypeArt hfront01">
         <fileTransfer accessType="SFTP" host="188.245.176.196" port="22" sshConfigId="b34283b1-b89e-4824-8968-1b89edd09fbc" sshConfig="hypeArt hfront01" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="64609556-dd1d-40c8-b5bf-8c1e02caa66f" name="stat seoxa">
+        <fileTransfer accessType="SFTP" host="65.109.134.202" port="22" sshConfigId="38f935a9-6fb8-4e81-868f-317ad92e8070" sshConfig="stat seoxa" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
