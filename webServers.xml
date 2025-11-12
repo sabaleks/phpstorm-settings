@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="783c928e-86de-4595-9047-73da1c53f2df" name="stst seoxa">
+        <fileTransfer accessType="SFTP" host="65.109.134.202" port="22" sshConfigId="0023a8f9-7973-4350-ad8e-db46cfa168a1" sshConfig="stst seoxa" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="aa2e9f96-4103-4a57-a241-7a9f00f5707f" name="Backend hfront1">
         <fileTransfer accessType="SFTP" host="hfront02.dial-backend.ru" port="22" sshConfigId="8d403ce9-3b89-4168-808e-762abaeaaa7c" sshConfig="Backend hfront02" authAgent="true">
           <advancedOptions>

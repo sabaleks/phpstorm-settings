@@ -46,6 +46,9 @@
       <sshConfig authType="OPEN_SSH" host="46.62.206.34" id="82a4bd51-30fd-4602-bf9e-9b2921542ce6" port="22" customName="Shark-vil-Vless-Ws" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="Shark-vil-Vless-Ws" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="65.109.134.202" id="0023a8f9-7973-4350-ad8e-db46cfa168a1" port="22" customName="stst seoxa" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="stst seoxa" />
+      </sshConfig>
     </configs>
   </component>
 </application>
