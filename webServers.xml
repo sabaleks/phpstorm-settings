@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="f3436985-cf4d-4fa1-aa58-65e9cadd9a05" name="3x-ui-polk">
+        <fileTransfer accessType="SFTP" host="45.112.194.217" port="22" sshConfigId="1a2ca9d5-3ab0-452b-8f8e-5c67c88ca658" sshConfig="3x-ui-polk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="aa2e9f96-4103-4a57-a241-7a9f00f5707f" name="Backend hfront1">
         <fileTransfer accessType="SFTP" host="hfront02.dial-backend.ru" port="22" sshConfigId="8d403ce9-3b89-4168-808e-762abaeaaa7c" sshConfig="Backend hfront02" authAgent="true">
           <advancedOptions>
@@ -16,14 +23,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="41e24dc5-6e6d-4545-81bc-a4c199d63149" name="Shark-vil-Vless-Ws">
-        <fileTransfer accessType="SFTP" host="46.62.206.34" port="22" sshConfigId="82a4bd51-30fd-4602-bf9e-9b2921542ce6" sshConfig="Shark-vil-Vless-Ws" authAgent="true">
+        <fileTransfer accessType="SFTP" sshConfigId="82a4bd51-30fd-4602-bf9e-9b2921542ce6" sshConfig="Shark-vil-Vless-Ws">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="9f354f83-1a20-4027-9846-e410f05609a8" name="3x-ui-keen">
-        <fileTransfer accessType="SFTP" host="49.12.219.107" port="22" sshConfigId="c584cd32-d5d4-4504-b392-37308dc7ce1c" sshConfig="3x-ui-keen" authAgent="true">
+        <fileTransfer accessType="SFTP" host="65.108.249.150" port="22" sshConfigId="7fcced90-a18f-44e4-b57d-7575d8cb033f" sshConfig="3x-ui-kakkak" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -101,6 +108,20 @@
       </webServer>
       <webServer id="64609556-dd1d-40c8-b5bf-8c1e02caa66f" name="stat seoxa">
         <fileTransfer accessType="SFTP" host="65.109.134.202" port="22" sshConfigId="38f935a9-6fb8-4e81-868f-317ad92e8070" sshConfig="stat seoxa" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f0414df4-2bf0-4b27-8bc2-56f65353eb1f" name="seoxastat.com">
+        <fileTransfer accessType="SFTP" sshConfigId="17ac024b-3a33-4660-ac45-1993cd40382e" sshConfig="seoxastat.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="435716c2-d903-4452-a27d-3cfe84edc55e" name="3x-ui-kakkak">
+        <fileTransfer accessType="SFTP" host="65.108.249.150" port="22" sshConfigId="7fcced90-a18f-44e4-b57d-7575d8cb033f" sshConfig="3x-ui-kakkak" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
