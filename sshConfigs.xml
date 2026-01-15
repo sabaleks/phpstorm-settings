@@ -40,11 +40,14 @@
       <sshConfig authType="OPEN_SSH" host="hfront02.dial-backend.ru" id="8d403ce9-3b89-4168-808e-762abaeaaa7c" port="22" customName="Backend hfront02" nameFormat="CUSTOM" username="user" useOpenSSHConfig="true">
         <option name="customName" value="Backend hfront02" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="46.62.206.34" id="82a4bd51-30fd-4602-bf9e-9b2921542ce6" port="22" customName="Shark-vil-Vless-Ws" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="Shark-vil-Vless-Ws" />
-      </sshConfig>
       <sshConfig authType="OPEN_SSH" host="65.109.134.202" id="38f935a9-6fb8-4e81-868f-317ad92e8070" port="22" customName="stat seoxa" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="stat seoxa" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="65.108.249.150" id="7fcced90-a18f-44e4-b57d-7575d8cb033f" port="22" customName="3x-ui-kakkak" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="3x-ui-kakkak" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="89.124.74.31" id="4131dd52-17cf-49f2-b6e7-ae44496e24de" port="22" customName="3x-ui-horda" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="3x-ui-horda" />
       </sshConfig>
     </configs>
   </component>
