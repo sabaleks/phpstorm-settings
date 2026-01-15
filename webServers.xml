@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f3436985-cf4d-4fa1-aa58-65e9cadd9a05" name="3x-ui-polk">
-        <fileTransfer accessType="SFTP" host="45.112.194.217" port="22" sshConfigId="1a2ca9d5-3ab0-452b-8f8e-5c67c88ca658" sshConfig="3x-ui-polk">
+        <fileTransfer accessType="SFTP" sshConfigId="1a2ca9d5-3ab0-452b-8f8e-5c67c88ca658" sshConfig="3x-ui-polk">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
