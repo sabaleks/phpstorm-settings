@@ -114,14 +114,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="435716c2-d903-4452-a27d-3cfe84edc55e" name="3x-ui-kakkak">
-        <fileTransfer accessType="SFTP" host="65.108.249.150" port="22" sshConfigId="7fcced90-a18f-44e4-b57d-7575d8cb033f" sshConfig="3x-ui-kakkak" authAgent="true">
+        <fileTransfer accessType="SFTP" sshConfigId="76aa7889-cc2a-41e1-b1e3-906457165a09" sshConfig="3x-ui-kakkakat">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="dc758319-3121-4ed9-a6b5-411434ab9d17" name="3x-ui-horda">
-        <fileTransfer accessType="SFTP" host="89.124.74.31" port="22" sshConfigId="4131dd52-17cf-49f2-b6e7-ae44496e24de" sshConfig="3x-ui-horda" authAgent="true">
+        <fileTransfer accessType="SFTP" sshConfigId="4131dd52-17cf-49f2-b6e7-ae44496e24de" sshConfig="3x-ui-horda">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
