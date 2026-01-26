@@ -1,7 +1,7 @@
 <application>
   <component name="ReworkedTerminalUsage"><![CDATA[{
   "feedbackNotificationShown": true,
-  "enterKeyPressedTimes": 552
+  "enterKeyPressedTimes": 559
 }]]></component>
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
