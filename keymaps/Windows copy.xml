@@ -7,4 +7,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ToggleReadOnlyAttribute">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
 </keymap>
