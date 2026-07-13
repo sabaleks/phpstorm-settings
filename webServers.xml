@@ -58,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="431062d2-6bf1-4206-a3aa-72a24c8a7d0d" name="stat">
-        <fileTransfer rootFolder="/var/www/stat_dial" accessType="SFTP" host="91.99.49.156" port="22" sshConfigId="67c5b5d2-1a71-4ece-a572-0a68eb26ce5e" sshConfig="morda vless" authAgent="true">
+        <fileTransfer rootFolder="/var/www/stat_dial" accessType="SFTP" host="157.90.175.90" port="22" sshConfigId="c1d95650-3c7a-46c1-beb4-9d5ed304a077" sshConfig="stat" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
