@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.51.1" />
+    </driver>
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.3.3" />
     </driver>
