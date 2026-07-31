@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="dbbb3db8-77b7-4240-9889-7336b2d71e19" name="seodial-CRM">
+        <fileTransfer accessType="SFTP" host="135.181.103.142" port="22" sshConfigId="6dbd6271-0007-4811-81ff-5f175c09713e" sshConfig="seodial-CRM" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="aa2e9f96-4103-4a57-a241-7a9f00f5707f" name="Backend hfront1">
         <fileTransfer accessType="SFTP" host="hfront02.dial-backend.ru" port="22" sshConfigId="8d403ce9-3b89-4168-808e-762abaeaaa7c" sshConfig="Backend hfront02" authAgent="true">
           <advancedOptions>
@@ -122,6 +129,13 @@
       </webServer>
       <webServer id="dc758319-3121-4ed9-a6b5-411434ab9d17" name="3x-ui-horda">
         <fileTransfer accessType="SFTP" sshConfigId="4131dd52-17cf-49f2-b6e7-ae44496e24de" sshConfig="3x-ui-horda">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b5d0a70f-ddca-4ab1-af8a-b132ec5d02a0" name="seogroup-CRM">
+        <fileTransfer accessType="SFTP" host="116.202.99.6" port="22" sshConfigId="011b90eb-d9df-48c9-bed6-ebeb0503e813" sshConfig="seogroup-CRM" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

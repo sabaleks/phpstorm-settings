@@ -46,8 +46,20 @@
       <sshConfig authType="OPEN_SSH" host="65.108.249.150" id="7fcced90-a18f-44e4-b57d-7575d8cb033f" port="22" customName="3x-ui-kakkak" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="3x-ui-kakkak" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="89.124.74.31" id="4131dd52-17cf-49f2-b6e7-ae44496e24de" port="22" customName="3x-ui-horda" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="3x-ui-horda" />
+      <sshConfig authType="OPEN_SSH" host="95.217.11.252" id="1877c7ad-466a-4ca4-afd0-829113f0a460" port="22" customName="chatwoot" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="chatwoot" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="89.167.70.81" id="b0348235-609e-4e47-9c58-f8308b99597a" port="22" customName="pb-relay" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="pb-relay" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="89.124.74.31" id="1b5d8eeb-e548-4a3c-a6b7-99eb9cacb013" port="22" customName="nl vdsina" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="nl vdsina" />
+      </sshConfig>
+      <sshConfig host="38.180.134.74" id="fd0f36ea-4dba-4a33-bb8c-e221a03cfb7e" keyPath="C:\Users\admin\.ssh\seo\id_rsa" port="22" customName="site" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="site" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="135.181.103.142" id="6dbd6271-0007-4811-81ff-5f175c09713e" port="22" customName="seodial-CRM" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="seodial-CRM" />
       </sshConfig>
     </configs>
   </component>
